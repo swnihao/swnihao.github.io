@@ -20,3 +20,5 @@ type: page
 * GitHub：[swnihao](https://github.com/swnihao)
 * email：stan20170331@163.com
 
+
+{% include comments.html %}
